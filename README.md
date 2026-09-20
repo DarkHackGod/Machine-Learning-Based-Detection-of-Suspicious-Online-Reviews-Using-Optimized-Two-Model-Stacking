@@ -25,6 +25,15 @@ The classification pipeline combines:
 An interactive Streamlit application provides a convenient interface for testing individual reviews or processing review datasets.
 
 ---
+---
+## 📡 Contact / Support
+Need help understanding its workflow? Contact us for technical support and project-related questions.
+
+
+- **Telegram:** https://t.me/darkhackgod
+- **Email:** darkhackgeek@gmail.com
+- **twitter:** Dark Geek
+---
 
 ## ✨ Key Capabilities
 
